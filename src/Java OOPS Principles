@@ -1,0 +1,12 @@
+3. Polymorphism: one entity in many forms.
+
+	=> static/compile time polymorphism: we can implement this type of polymorphism with,
+		1. constructor overloading:
+		2. method overloading
+		
+		Note: for method or constructor overloading we need only one class.
+		
+	=> dynamic/run time polymorphism: we can implement this type of polymorphism with,
+		1. method overriding
+
+4. Abstraction: Hide unnecessory things focus on the functionality.
